@@ -20,5 +20,6 @@ if __name__ == '__main__':
 ### downloadPhotos(x) - download x NFT picture from OpenSea
 ### getInstagram(x) - get x href instagramm from OpenSea
 ### getTwitters(x) - get x href twitters from OpenSea
-## All methotds download [there](https://opensea.io/activity?search[eventTypes][0]=AUCTION_SUCCESSFUL)
-## For communication write me [@DenchicEz](https://t.me/DenchicEz)
+## Other
+### All methotds download [there](https://opensea.io/activity?search[eventTypes][0]=AUCTION_SUCCESSFUL)
+### For communication write me [@DenchicEz](https://t.me/DenchicEz)
